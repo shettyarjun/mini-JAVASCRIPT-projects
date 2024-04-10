@@ -1,0 +1,62 @@
+body{
+    background-image: url("./images/rpc.png");
+    background-size: cover; 
+    background-blend-mode: soft-light;
+
+}
+*{
+    font-family: 'Courier New', Courier, monospace, sans-serif;
+    padding: 5px;
+    box-sizing: border-box;
+    margin: 5px;   
+    
+}
+#container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+    flex-direction: column;
+    background-color: rgba(248, 141, 34, 0.907);
+    border: 3px solid black;
+    border-radius: 40px;
+}
+
+#gameDiv{
+    border: 3px solid black;
+    background-color: rgba(231, 231, 231, 0.831);
+    border-radius: 40px;
+    width: 95%;
+    height: 30%;
+    
+
+}
+h2{
+    font-size: 40px;
+    color: black;
+    text-align: center;
+    background-color: rgba(231, 231, 231, 0.827);
+    border: 3px solid black;
+    border-radius: 40px;
+}
+.game{
+    font-size: 30px;
+}
+
+.choice{
+    
+    margin: 10px;
+    border: 3px solid black;
+    border-radius: 10px;
+    font-size: 60px;
+    background-color: rgba(231, 231, 231, 0.827);
+    padding: 10px;
+    cursor: pointer;
+    
+}
+
+.choice:active{
+    background-color: rgb(255, 255, 255);
+    box-shadow: 1px 1px 5px black;
+    
+}

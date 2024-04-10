@@ -1,0 +1,77 @@
+* {
+    font-family: "permanent marker", cursive; 
+    text-align: center; 
+    margin: 10px;
+    
+  }
+  
+  .cell {
+    width: 100px;
+    height: 100px;
+    border: 1px solid rgb(0, 0, 0);
+    box-shadow: 0px 0px 5px rgb(0, 0, 0);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 60px;
+    cursor: pointer;
+    background-color: rgba(255, 255, 255, 0.623);
+  }
+  
+  #cellcontainer {
+    display: grid;
+    grid-template-columns: repeat(3, 100px);
+    grid-template-rows: repeat(3, 100px);
+    justify-content: center;
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+  }
+  
+  h1{
+    border: 2px solid rgb(0, 0, 0);
+    padding: 10px;
+    background-color: rgba(255, 254, 251, 0.767);
+    
+  }
+
+  body{
+    background-image: url("./images/ttt.png");
+  }
+
+  #cellcontainer .cell:hover{
+    background-color: rgba(0, 0, 0, 0.775);
+    color: rgba(255, 255, 255, 0.946);
+    border: 1px solid rgba(255, 255, 255, 0.946);
+    cursor: pointer;
+  }
+
+  #container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+    flex-direction: column;
+    background-color: rgba(255, 255, 255, 0);
+    border: 3px solid rgb(255, 255, 255);
+    border-radius: 80px;
+  }
+
+  #result{
+    border: 2px solid rgb(255, 255, 255);
+    padding: 5px;
+    background-color: rgba(255, 121, 121, 0.981);
+    color: rgb(255, 255, 255);
+    
+  }
+
+  #reset{
+    border: 2px solid rgb(255, 255, 255);
+    padding: 5px;
+    background-color: rgba(255, 121, 121, 0.981);
+    color: rgb(255, 255, 255);
+    cursor: pointer;
+  }
+  #reset:active{
+    background-color: rgba(255, 255, 255, 0.849);
+    color: rgb(0, 0, 0);
+  }
