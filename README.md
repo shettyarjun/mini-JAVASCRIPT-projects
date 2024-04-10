@@ -1,37 +1,37 @@
-# Welcome to Our Interactive Web Page Project!
+# Welcome to Interactive Web Page Project!
 
-Thank you for checking out our project! Here, you'll find a collection of fun and interactive programs that you can enjoy right in your web browser.
+Thank you for checking out my project! Here, you'll find a collection of fun and interactive programs that you can enjoy right in your web browser.
 
 ![Main Page](basic/images/main.png)
 
 ## Programs Included
 
 1. **Pong Game**
-   ![Pong Game](basic/images/pong.png)
+   ![Pong Game](basic/images/pong.png){:height="200px" width="200px"}
    - Test your reflexes in this classic arcade game!
 
 2. **Snake Game**
-   ![Snake Game](basic/images/snake.png)
+   ![Snake Game](basic/images/snake.png){:height="200px" width="200px"}
    - Control the snake and eat as much food as you can without hitting the walls or yourself!
 
 3. **Tic Tac Toe Game**
-   ![Tic Tac Toe Game](basic/images/ttt.png)
+   ![Tic Tac Toe Game](basic/images/ttt.png){:height="200px" width="200px"}
    - Challenge a friend to a game of Tic Tac Toe and see who's the ultimate strategist!
 
 4. **Calculator**
-   ![Calculator](basic/images/calc.png)
+   ![Calculator](basic/images/calc.png){:height="200px" width="200px"}
    - Perform simple calculations with ease using our handy calculator.
 
 5. **Rock Paper Scissors**
-   ![Rock Paper Scissors](basic/images/scissors.png)
+   ![Rock Paper Scissors](basic/images/scissors.png){:height="200px" width="200px"}
    - Play the classic game of Rock Paper Scissors against the computer.
 
 6. **Stopwatch**
-   ![Stopwatch](basic/images/stopwatch.png)
+   ![Stopwatch](basic/images/stopwatch.png){:height="200px" width="200px"}
    - Keep track of time with our simple stopwatch feature.
 
 7. **Clock**
-   ![Clock](basic/images/clock.png)
+   ![Clock](basic/images/clock.png){:height="200px" width="200px"}
    - Stay on schedule with our digital clock display.
 
 ## Technologies Used
@@ -54,6 +54,6 @@ Thank you for checking out our project! Here, you'll find a collection of fun an
 
 ## About the Creator
 
-This project was  created by [Arjun Shetty](https://www.github.com/shettyarjun). If you have any questions, feedback, or just want to say hello, feel free to reach out!
+This project was lovingly created by [Arjun Shetty](https://www.github.com/shettyarjun). If you have any questions, feedback, or just want to say hello, feel free to reach out!
 
-Enjoy your interactive journey with me!
+Enjoy your interactive journey!
