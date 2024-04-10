@@ -2,12 +2,12 @@
 
 This project contains a simple web page with multiple programs that users can select and interact with. Each program is represented by an image and a link.
 
-<img src="./basic/images/main.pg">
+<img src="basic/images/main.pg">
 
 ## Programs Included
 
 1. Pong Game
-   <img src="../basic/images/pong.png">
+   <img src="basic/images/pong.png">
    <br>
 2. Snake Game
    <img src="../images/snake.png">
