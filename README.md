@@ -2,15 +2,15 @@
 
 This project contains a simple web page with multiple programs that users can select and interact with. Each program is represented by an image and a link.
 
-<img src="./images/main.pg">
+<img src="./basic/images/main.pg">
 
 ## Programs Included
 
 1. Pong Game
-   <img src="./images/pong.png">
+   <img src="../basic/images/pong.png">
    <br>
 2. Snake Game
-   <img src="./images/snake.png">
+   <img src="../images/snake.png">
    <br>
 3. Tic Tac Toe Game
    <img src="./images/ttt.png" >
