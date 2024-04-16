@@ -2,36 +2,43 @@
 
 Thank you for checking out my project! Here, you'll find a collection of fun and interactive programs that you can enjoy right in your web browser.
 
-![Main Page](basic/images/main.png)
+<img src="basic/images/main.png" width="500" height="500">
 
 ## Programs Included
 
 1. **Pong Game**
-   ![Pong Game](basic/images/pong.png){:height="200px" width="200px"}
+   
+<img src="basic/images/pong.png" width="300" height="300">
    - Test your reflexes in this classic arcade game!
 
 2. **Snake Game**
-   ![Snake Game](basic/images/snake.png){:height="200px" width="200px"}
+   
+<img src="basic/images/snake.png" width="300" height="300">
    - Control the snake and eat as much food as you can without hitting the walls or yourself!
 
 3. **Tic Tac Toe Game**
-   ![Tic Tac Toe Game](basic/images/ttt.png){:height="200px" width="200px"}
+   
+<img src="basic/images/ttt.png" width="300" height="300">
    - Challenge a friend to a game of Tic Tac Toe and see who's the ultimate strategist!
 
 4. **Calculator**
-   ![Calculator](basic/images/calc.png){:height="200px" width="200px"}
+   
+<img src="basic/images/calc.png" width="300" height="300">
    - Perform simple calculations with ease using our handy calculator.
 
 5. **Rock Paper Scissors**
-   ![Rock Paper Scissors](basic/images/scissors.png){:height="200px" width="200px"}
+   
+<img src="basic/images/scissor.png" width="300" height="300">
    - Play the classic game of Rock Paper Scissors against the computer.
 
 6. **Stopwatch**
-   ![Stopwatch](basic/images/stopwatch.png){:height="200px" width="200px"}
+    
+<img src="basic/images/stopwatch.png" width="300" height="300">
    - Keep track of time with our simple stopwatch feature.
 
 7. **Clock**
-   ![Clock](basic/images/clock.png){:height="200px" width="200px"}
+   
+<img src="basic/images/clock.png" width="300" height="300">
    - Stay on schedule with our digital clock display.
 
 ## Technologies Used
